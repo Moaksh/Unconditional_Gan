@@ -1,0 +1,1 @@
+{"latent_dim": 256, "image_size": 256, "optimizer": "adam", "fmap_max": 512, "fmap_inverse_coef": 12, "transparent": false, "greyscale": false, "disc_output_size": 1, "attn_res_layers": [32], "freq_chan_attn": false, "ttur_mult": 1.0, "lr": 0.0002}
